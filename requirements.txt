@@ -1,2 +1,8 @@
-tensorflow
-sklearn
+tensorflow==2.15.0
+scikit-learn
+pandas
+numpy
+tensorboard
+matplotlib
+streamlit
+plotly
